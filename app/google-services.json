@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107324580978",
+    "project_id": "food-manage-2960a",
+    "storage_bucket": "food-manage-2960a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107324580978:android:7ad29ee18f2405a08e8eeb",
+        "android_client_info": {
+          "package_name": "com.sgp22.donate.food_manage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107324580978-74mnlh9uevugrbc11p022ea4bf6q0ia6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUymhtt--RWP0swuAmzun3iERCQN8FXrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107324580978-74mnlh9uevugrbc11p022ea4bf6q0ia6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
